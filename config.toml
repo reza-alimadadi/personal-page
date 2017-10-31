@@ -246,7 +246,7 @@ defaultContentLanguageInSubdir = false
   weight = 4
 
 [[menu.main]]
-  name = "Work"
+  name = "Working"
   url = "#work"
   weight = 5
 
