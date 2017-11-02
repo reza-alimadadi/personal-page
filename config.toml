@@ -44,7 +44,7 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Tehran", url = "" } ]
+  organizations = [ { name = "University of Tehran", url = "http://ut.ac.ir/en" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -198,11 +198,6 @@ defaultContentLanguageInSubdir = false
   #   icon = "twitter"
   #   icon_pack = "fa"
   #   link = "//twitter.com/GeorgeCushen"
-
-  [[params.social]]
-  	icon = "envelope"
-  	icon_pack = "fa"
-  	link = "mailto:mreza.alimadadi@ut.ac.ir"
 
   [[params.social]]
   	icon = "linkedin"
